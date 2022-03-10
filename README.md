@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IdoAbramov
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in: low level programming and security researching.
+- 🌱 I’m currently learning: C/C++, Python and Java.
+- 💞️ I’m looking to collaborate on: challanging open-source projects.
 - 📫 How to reach me :
 E-mail - ido.abrmov@gmail.com
 Linkedin - https://www.linkedin.com/in/idoabramov/
