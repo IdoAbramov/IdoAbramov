@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IdoAbramov
-- 👀 I’m interested in: low level programming and security researching.
+- 👀 I’m interested in: low level programming and security.
 - 🌱 I’m currently learning: C/C++, Python and Java.
 - 💞️ I’m looking to collaborate on: challanging open-source projects.
 - 📫 How to reach me :
